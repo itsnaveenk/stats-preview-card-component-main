@@ -1,5 +1,9 @@
 # Frontend Mentor - Stats preview card component
 
+#Completed
+
+## please find CSS solution in styles.css file
+
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
