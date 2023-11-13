@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-# Completed
+# Completed ✅
 
 ## please find CSS solution in styles.css file
 
